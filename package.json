@@ -1,0 +1,5 @@
+{
+  "name": "sol-erc20-faucet-claim",
+  "version": "1.0.0",
+  "devDependencies": { "hardhat": "^2.19.0" }
+}
